@@ -315,6 +315,43 @@ export const myInfo = {
           },
         ],
       },
+      {
+        from: "2023.5",
+        to: "2024.5",
+        company: "Your Company",
+        location: "Shanghai, China",
+        title: "Your Position",
+        description: [
+          {
+            title: "Project Name-1",
+            detail:
+              "Project content, your job responsibilities, and the project's goals.",
+          },
+          {
+            title: "Project Name-2",
+            detail:
+              "Project content, your job responsibilities, and the project's goals.",
+          },
+          {
+            title: "Project Name-3",
+            detail:
+              "Project content, your job responsibilities, and the project's goals.",
+          },
+          {
+            title: "Project Name-4",
+            detail:
+              "Project content, your job responsibilities, and the project's goals.",
+          },
+        ],
+        achievements: [
+          {
+            description:
+              "Demonstration of achievements, such as project demonstrations, paper links, and other results.",
+            src: "https://github.com/zhengliu92",
+            icon: "ref",
+          },
+        ],
+      },
     ],
     Education: [
       {
