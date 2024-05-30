@@ -31,8 +31,8 @@ The template supports multi-language. You can add more languages by adding a new
 
 ### Dark Mode and English Version
 
-![Dark Mode](/dark-en-version.png)
+![Dark Mode](/a-dark-en-version.png)
 
 ## Light Mode and Chinese Version
 
-![Light Mode](/light-zh-version.png)
+![Light Mode](/a-light-zh-version.png)
